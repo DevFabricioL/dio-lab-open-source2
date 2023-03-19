@@ -1,4 +1,4 @@
-## Olá! Eu sou o Fabricio 🖐️
+## Olá! Eu sou o Fabricio e sou Dev Junior 🖐️
 
 ![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabriciol&show_icons=true&theme=radical)
 
