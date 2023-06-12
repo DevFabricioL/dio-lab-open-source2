@@ -1,4 +1,5 @@
 ## Olá! Meu nome é Fabricio e sou Dev Junior 🖐️
+Comecei a Estudar programaçao em 2020 quando entrei para minha faculdade de Ciencia da computação
 
 ![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabriciol&show_icons=true&theme=radical)
 
