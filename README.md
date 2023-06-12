@@ -1,5 +1,7 @@
 ## Olá! Meu nome é Fabricio e sou Dev Junior 🖐️
-Comecei a Estudar programaçao em 2020 quando entrei para minha faculdade de Ciencia da computação
+Comecei a Estudar programaçao em 2020 quando entrei para minha faculdade de Ciencia da computação.
+Nesse tempo conclui um curso na Udemy sobre Python e um curso online de introdusao a programaçao de Harvard.
+Atualmente estou focado para desenvolvimento Frontend, estudando HTML,CSS e JavaScript
 
 ![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfabriciol&show_icons=true&theme=radical)
 
